@@ -1,0 +1,44 @@
+<h1 align="center">Jogo do Numero Secreto</h1>
+
+<p align="center">
+  <img src="./img/jogonumeroSecreto.png" alt="Game Screenshot">
+</p>
+<div style align="center"><br>
+<img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+## Descrição
+Este é um jogo interativo desenvolvido em HTML, CSS e JavaScript, onde o jogador deve adivinhar um número aleatório dentro de um intervalo específico.<br>
+O "Jogo do Numero Secreto" é um dos jogos mais antigos.<br>
+Ele tambem interage com um sistema de voz
+
+## Pré-requisitos
+Para executar o jogo, basta ter um navegador web atualizado e uma conexão com a internet.
+
+## Como Jogar
+1. Abra o arquivo `index.html` no seu navegador.
+2. Insira um número dentro do intervalo fornecido no campo de entrada.
+3. Clique no botão "Chutar" para verificar o seu palpite.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+## Autor
+Ricardo Alexandre Costa
+## Contato 
+<img height ="30" align="center" src="./img/linkedin.png"> [LinkedIn](https://www.linkedin.com/in/ricardo-alexandre-costa1985/)
+
+<a href = " https://wa.me/18997490885"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:contatoricardozanete@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+## Agradecimentos
+- [ResponsiveVoice](https://responsivevoice.org/) - API de texto para fala
+- [Google Fonts](https://fonts.google.com/) - Fontes utilizadas no projeto
+
+---
+
+Espero que aproveite o jogo! 😊
